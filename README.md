@@ -1,8 +1,8 @@
 # Olá!👋 Eu sou o Martinho!
-Cursando Técnico de Desenvolvimento de Sistemas - 🌱
-Focado em Python, HTML e CSS - ⚡
-Preparando-se para o mercado de tecnologia 🔭
-Contato: f.martinho@outlook.com 📫
+- Cursando Técnico de Desenvolvimento de Sistemas - 🌱
+- Focado em Python, HTML e CSS - ⚡
+- Preparando-se para o mercado de tecnologia 🔭
+- Contato: f.martinho@outlook.com 📫
 https://www.linkedin.com/in/fillipe-martinho-82416363/
 <!--
 **martinhofillipe/martinhofillipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
